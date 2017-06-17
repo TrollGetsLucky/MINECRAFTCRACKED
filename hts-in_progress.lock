@@ -1,0 +1,7 @@
+Mirror in progress since Sat, 17 Jun 2017 02:09:44 .. please wait!
+httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/https:/minecraft.net/en-us -A25000k%Px%q0u1s2%s%u%fDaK0p3N0H0 https://minecraft.net/en-us/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=19197
+UID=10160
+GID=10160
+START=1497679784
